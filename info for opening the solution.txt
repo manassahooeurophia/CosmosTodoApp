@@ -1,0 +1,1 @@
+In Visual Studio - File >> Open(Project/Solution) >> Browse through src->todo.csproj
